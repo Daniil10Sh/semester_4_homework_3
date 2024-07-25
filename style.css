@@ -1,0 +1,14 @@
+.MainImg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.img1{
+    height: 200px;
+}
+.img2{
+    height: 200px;
+}
+.img3{
+    height: 200px;
+}
